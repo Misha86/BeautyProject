@@ -1,5 +1,6 @@
 # Beauty project
 
+
 Our project was created in order to bring customers closer to the service providers of the beauty industry.    
 We are trying to improve the interaction of the main participants in these processes. The client is provided with a tool for convenient registration for the services of a hairdresser, barber and other specialists. Specialists get the opportunity to use their time more efficiently. And the owners of beauty salons will be able to attract new customers and monitor the workload of their specialists.
 
